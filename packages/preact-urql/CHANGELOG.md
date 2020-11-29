@@ -1,5 +1,11 @@
 # @urql/preact
 
+## 1.4.3
+
+### Patch Changes
+
+- Add `suspense: false` to options when `executeQuery` is called explicitly, by [@kitten](https://github.com/kitten) (See [#1181](https://github.com/FormidableLabs/urql/pull/1181))
+
 ## 1.4.2
 
 ### Patch Changes
